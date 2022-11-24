@@ -127,6 +127,8 @@ np.mean(predict(res.x,X)==y)
 ![output](./h5.png)
 ### y train grad value
 ![output](./h6.png)
+### regression value
+![m12](https://user-images.githubusercontent.com/93427472/203793398-6bfe86a2-7ba6-463b-9aec-826c20e2ae61.png)
 ### decision boundary graph
 ![output](./h7.png)
 ### probablity value
